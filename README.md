@@ -4,7 +4,7 @@ This repository was created for the Computational Theory module. It contains the
 
 
 ## Contents
-- 'taks.jpynb' - Main notebook with all tasks and explanations
+- 'tasks.ipynb' - Main notebook with all tasks and explanations
 - 'test.txt' - Used for SHA-256 padding test
 - 'words.txt' - Massive file, contrains sample data for task 6
 
