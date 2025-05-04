@@ -34,11 +34,11 @@ This repository was created for the Computational Theory module. It contains the
 - Simple proof-of-word system
 - Searched for a value that makes the hash of input data start with a certrain number of zeros
 - Used concept of a blockchain mining to verify blocks
-###Task 7: Turing Machines
+### Task 7: Turing Machines
 - Sumulates a Turing machine in Python
 - Used a state table and an input string to process the tape
 - Shows how basic Turing machine read, write, and change states
-###Task 8: Computational Complexity
+### Task 8: Computational Complexity
 - Measured how many coomparisions bubble sort makes for different input orders
 - Generated all permutations of a list and counted sorting steps
 - Helped understand algorithm efficienct by tracking comparision counts
